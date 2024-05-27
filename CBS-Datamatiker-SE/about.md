@@ -1,4 +1,4 @@
-#CBS Projects
+# CBS Projects
 
 At CBS the study programme was more focused on how to program as a team, and to create a final finished product. It revolved around planning, designing and implementing. But more importantly, we were given tools and projects to gain experience from.
 
