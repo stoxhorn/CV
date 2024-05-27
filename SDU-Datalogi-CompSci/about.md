@@ -1,4 +1,4 @@
-SDU projects
+#SDU projects
 
 During my computer science studies i developed the following projects:
 
