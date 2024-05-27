@@ -10,7 +10,7 @@ When i created this, i had never used Javascript, and Javascript was/is the pref
 
 It's here, and consists mostly of Diagrams and plans/ideas: https://github.com/stoxhorn/DFT-DeFi-Trader
 
-**Javascript version** - https://github.com/stoxhorn/DefiTrader
+**Javascript version** - https://github.com/stoxhorn/DeFiTraderPublic
 
 Later when i learned Javascript, i restarted the Idea, but this time with a frontend, that can just do some simple stuff. As i've gotten a lot of experience and confidence, i want to do this one thoroughly, when i have time to give it some proper thought and not just code away for the sake of functionality. This is also what i'm planning to use, to get experience with working with web3. This uses Ethers.JS
 
