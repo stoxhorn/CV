@@ -2,6 +2,10 @@
 
 ## Web3
 
+**Rust, Foundry and simulation** - https://github.com/stoxhorn/Foundry_project
+
+Public example of my first Rust project. I wanted to create a simulation system for anvil. I have an idea for my own DeFi project, where i want to be able to experiment with ideas, as i'm new to Solidity. Instead of going with a crate already build, or using a javascript framework, i wanted to learn Rust. On top of this i can personalize it, and know all the ins and outs, such that i can more easily and fast configure it.
+
 
 **Token Sniper** - https://github.com/stoxhorn/Sniper
 
